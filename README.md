@@ -1,8 +1,15 @@
-# THIS PROJECT IS NOW ABANDONED
+# THIS PROJECT IS STILL VERY WORK IN PROGRESS
 
-The developer no longer needs to use wilma, feel free to fork the project if you want to do something with the code.
+I have forked the old OtaWilma app project and I have the goal of finishing it. If that means fixing the old code or remaking the entire thing from scratch, I'm not sure.
 
-# OtaWilmaMobile
+Please also note that I have _never_ made an android app in my life, so don't expect this to be done quickly. A **very** optimistic ETA would be the end of the school year, but that will most likely not happen.
+
+## Current status:
+I'm still actively learning **Kotlin** and **Android Studio**. Right now I can make simple UI that has some basic functionality.
+
+I've also managed to get the old project open in Android Studio and I have decided that I want to overhaul the UI to use Jetpack Compose instead of XML. I will probably use some quite a bit of the old logic once I understand the code better.
+
+# Original README:
 
 OtaWilmaMobile is an android interface for OtaWilma. 
 
